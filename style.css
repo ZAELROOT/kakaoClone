@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+.phone{
+    border:2px solid black;
+    width: 540px;
+    height: 960px;
+}
